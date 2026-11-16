@@ -1,4 +1,4 @@
-# WhyWorks – Premium Doctor Portfolio Demo
+#  – Premium Doctor Portfolio Demo
 
 A responsive single-page doctor/clinic portfolio website demo built with HTML, CSS and vanilla JavaScript.
 
